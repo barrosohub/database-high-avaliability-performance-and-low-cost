@@ -1,5 +1,5 @@
 # Gestão e Esquema Inteligente para Banco de Dados
-Sugestão/esquema para usar um banco de dados open-source considerando uma alta disponibilidade, desempenho, disponibilidade, redundância, e também um baixo custo.
+Sugestão/esquema para usar um banco de dados open-source considerando uma alta disponibilidade, desempenho, redundância e também baixo custo.
 
 ### 1 - Supabase (PostgreSQL):
 Seria o núcleo geral do armazenamento em nuvem e escalável de todas as informações/dados gerenciados pela aplicação
